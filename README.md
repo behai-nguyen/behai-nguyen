@@ -8,6 +8,8 @@
 
 - 📫 My email address is: behai_nguyen@hotmail.com
 
+- ✨ My main blog: https://behainguyen.wordpress.com/
+
 <!---
 behai-nguyen/behai-nguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
