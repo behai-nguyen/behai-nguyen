@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Be Hai Nguyen. I have been a programmer for more than 20 years.
 
-- 👀 I’m interested in: Python, JavaScript, Delphi, different types of Databases, HTML, CSS, JQuery, Bootstrap 5.0, NodeJS etc. 
+- 👀 I’m interested in: Python, Rust, NodeJs, Delphi, MySQL, PostgreSQL, HTML, CSS, JavaScript, JQuery, Bootstrap, Docker, Jenkins, Windows, Linux, Google API. 
 
 - I am also interested in movie making softwares such as Pinnacle Studio Ultimate and DaVinci Resolve.
 
